@@ -1,0 +1,22 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "name": "Nayan",
+      "marks": "25",
+      "mobile": "7709273100",
+      "age": "23",
+      "address": "Maharashtra",
+      "course": "c,Java,Hibernate,MySQL"
+    },
+    {
+      "id": 2,
+      "name": "Sandesh",
+      "marks": "95",
+      "mobile": "7020960883",
+      "age": "23",
+      "address": "pune",
+      "course": "java"
+    }
+  ]
+}
